@@ -7,10 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-"repository": {
-  "type": "git",
-  "url": "git+https:https://github.com/jgalvez98/JEG-SocialNetworkAPI"
-},
+  "repository": {
+    "type": "git",
+    "url": "git+https:https://github.com/jgalvez98/JEG-SocialNetworkAPI"
+  },
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.6.3"
+  }
 }
