@@ -3,8 +3,7 @@
 
   ## Description
   
-  Keep track and manage the departments, roles, and employees in your company in order to organize and plan your business with this command-line aplication.
-  
+   A social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.  
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
@@ -16,13 +15,13 @@
   ## Installation
   <ul>
 <li>1.git clone the code</li>
-<li>2.install express and uniquit in order to run the aplication</li>
-<li>3.run the terminal and type server.js, the aplication will be ready to use on por 3001</li>
+<li>2.type npm i to install the required dependecies </li>
+<li>3.run the terminal and type npm start, the aplication will be ready to use on por 3001</li>
 </ul>
 
   ## Usage
 
-  run the aplication and start tracking  your employees
+  Run the aplication using insomnia and start adding friends, thoughs and react to your friends thoughts!
   
 
   ## Contribution
@@ -30,7 +29,10 @@
   
   ## sample
 
-  PENDING PENDING
+  video url: https://clipchamp.com/watch/PHhu664yQ50
+
+  
+<img width="958" alt="challenge-18" src="https://github.com/jgalvez98/JEG-SocialNetworkAPI/assets/71774194/2cebde14-da47-495b-9487-c9f0c3cc1947">
 
 
 
